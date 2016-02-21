@@ -1,0 +1,25 @@
+S.17:  Definition von antisymmetrisch: statt x hat sich ein z eingschlichen
+S.73:  voreltzte Zeile ganz am Anfang: es sollte heißen d_2(x,y) nicht d(x,y)
+S.101: vor Fakta: lassen sich aber nicht ohne weiteres auf unendlichen Reihen übetragen ("unendliche" statt "uneendlichen")!
+S.101: 3.9.4 1. Ende erster Absatz: "unterscheidet sich im diese" ... es sollte "um" heißen
+S.148: 4. A^~ sollte verwendet werden, statt überall A zu verwenden ...
+S.148: 6. Die erste Summe hat k_n statt a_k stehen ...
+S.149: Mitte C_2 ist links und rechts von der Summe definiert ... einmal reicht!
+S.152: 5.19: in der ganz rechten summe ist zeimal j im Index
+S.155: kurz vor 5.23: "genau dann eine Teilmenge ist, wenn" ... das "ist" ist überflüssig
+S.157: erster Absatz: "so kann diese Annäherung auch nur von einer Seite stattfindet" ... es sollte "stattfinden" heißen
+S.159: Aufgabe 5.5: Definition des orthogonalen Komplements sollte einen Allquantor beinhalten ...
+S.165: 6.1.2 (ii) ist unvollständig ... das beispiel beginnt mit "stetig."
+S.168: 6.1.6 Lemma X und Y werden als metrische Räume festgelegt ... nirgendwo wird aber erwähnt, dass Z auch ein metrischer Raum ist
+S.170: 6.1.10 (ii) Die Verwendung des Begriffs "rationale Funktion" im zweiten Abschnitt bedarf einer Erklärung, weil dieser Begriff nie definiert wurde und daher irreführend sein kein (man könnte glauben der quotient sei eine rat. zahl)
+S.171: 6.1.13 Proposition: Es ist die Rede von D, wird aber nicht gesagt aus welchem metrischen Raum D ist ...
+S.178: Randpunkt wurde vorher nie definiert ...
+S.178: Letzer Absatz: "Wir wollen zeige" ... es sollte "zeigen" heißen ...
+S.179: (ii): Definiert wird die Funktion g, argumentiert wird mit der Funktion f
+S.183: erste Zeile "also gilt f(x)<f(y)" ... es sollte heißen "also gilt f^-1(x)<f^-1(y)"
+S.186: 2. Zeile: auf der linken Seite steht nur der d_Y Ausruck ... es sollte das Supremum davorgeschrieben werden ... oder gar d_\infty
+S.186: 6. Zeile von unten (Formeln mitgezählt): "Im Unterschied zur punktweisen Konvergenz muss man bei der gleichmäßiger" ... entweder "der" entfernen oder r durch n ersetzen
+S.134: 3. Vereinigung auf der Seite (Seitenmitte): Im Index der Vereinigung steht "k \in {K+1, k+2,...}" sollte aber "k \in {K+1, K+2,...}" sein (Groß/Kleinschreibung)
+S.208: Formel vor 6.16: Im ganz rechten Summenausdruck sollte (ic_n-ic_{-n}) stehen ...
+S.220: 6.41 "Weiters zeigen Sie, dass diese Gleichung" ... Es handelt sich um eine Ungleichung, keine Gleichung
+S.224: letzte formel: beim letzten summanden des taylorpolynoms fehlt die hochzahl n
