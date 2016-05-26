@@ -48,4 +48,6 @@ S.282: 8.6.5: 2.Textzeile: "h(x) lässt sich aber stetig auf ... durch h(x)=0 st
 S.293: 4.Zeile: "jeweils gegen +infty gereichtet sind" ... "gerichtet"
 S.303: 9.1.1: nach (N3): Das Paar ... heißt dann normierten Raum ... sollte normierter Raum heißen ...
 S.308: erste Zeile: "Wie man leicht sieht, ist die Relation, äquivalent zu sein" ... scheint ...
+S.334: 10.1.5: letzter Satz: "denn aus den aus den Ungleichungen" 
 S.336: 10.1.9, 2.: rechter Limesausdruck: A(t*e_i) sollte A(s*e_i) sein.
+S.363: 11.1.5, 1.: am Ende der Gleichung sollte in der euklidischen Norm x_1-x_0 statt x-y stehen
